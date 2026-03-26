@@ -4,4 +4,10 @@
 body {
     background-color: #e6c9a1;
 }
-   
+.centro{
+    text-align: center;
+}
+ul{
+    list-style-position:inside;
+    text-align: center;
+}
